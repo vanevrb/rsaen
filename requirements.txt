@@ -4,3 +4,5 @@ requests
 jsonify
 cryptography==40.0.2
 Crypto
+pycryptodome
+pycrypto
