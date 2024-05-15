@@ -1,5 +1,5 @@
 gunicorn
 Flask
-request
+requests
 jsonify
 cryptography==40.0.2
