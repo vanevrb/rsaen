@@ -1,1 +1,5 @@
-web: gunicorn app:app
+gunicorn
+Flask
+request
+jsonify
+cryptography==40.0.2
